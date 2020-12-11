@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/salagiochi/static/css/main.5aaaa5ca.chunk.css",
+    "main.js": "/salagiochi/static/js/main.f3d6b8e6.chunk.js",
+    "main.js.map": "/salagiochi/static/js/main.f3d6b8e6.chunk.js.map",
+    "runtime-main.js": "/salagiochi/static/js/runtime-main.9f34393a.js",
+    "runtime-main.js.map": "/salagiochi/static/js/runtime-main.9f34393a.js.map",
+    "static/css/2.31461e4f.chunk.css": "/salagiochi/static/css/2.31461e4f.chunk.css",
+    "static/js/2.37438c31.chunk.js": "/salagiochi/static/js/2.37438c31.chunk.js",
+    "static/js/2.37438c31.chunk.js.map": "/salagiochi/static/js/2.37438c31.chunk.js.map",
+    "static/js/3.6cd10cd3.chunk.js": "/salagiochi/static/js/3.6cd10cd3.chunk.js",
+    "static/js/3.6cd10cd3.chunk.js.map": "/salagiochi/static/js/3.6cd10cd3.chunk.js.map",
+    "index.html": "/salagiochi/index.html",
+    "service-worker.js": "/salagiochi/service-worker.js",
+    "service-worker.js.map": "/salagiochi/service-worker.js.map",
+    "static/css/2.31461e4f.chunk.css.map": "/salagiochi/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.5aaaa5ca.chunk.css.map": "/salagiochi/static/css/main.5aaaa5ca.chunk.css.map",
+    "static/js/2.37438c31.chunk.js.LICENSE.txt": "/salagiochi/static/js/2.37438c31.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/salagiochi/static/media/ethnocentric rg.8d076088.ttf",
+    "static/media/gettonered.aee24bcd.svg": "/salagiochi/static/media/gettonered.aee24bcd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f34393a.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.37438c31.chunk.js",
+    "static/css/main.5aaaa5ca.chunk.css",
+    "static/js/main.f3d6b8e6.chunk.js"
+  ]
+}
